@@ -21,5 +21,8 @@ body {
 #line {
   background-color: white;
   height: 5px;
-  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
 }
